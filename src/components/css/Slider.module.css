@@ -1,0 +1,7 @@
+.SliderBlock {
+  height: 300px;
+  border: 2px solid grey;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
